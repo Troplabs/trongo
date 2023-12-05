@@ -17,7 +17,7 @@
     "@unocss/eslint-config": "0.57.7",
     "@unocss/nuxt": "0.57.7",
     "@vueuse/nuxt": "10.6.1",
-    "eslint": "8.54.0",
+    "eslint": "8.55.0",
     "nuxt": "3.8.2",
     "nuxt-primevue": "0.2.1",
     "typescript": "5.3.2",
