@@ -15,7 +15,7 @@
     "@antfu/eslint-config": "2.6.4",
     "@nuxt/devtools": "latest",
     "@unocss/eslint-config": "0.58.5",
-    "@unocss/nuxt": "0.58.3",
+    "@unocss/nuxt": "0.58.5",
     "@vueuse/nuxt": "10.7.1",
     "eslint": "8.56.0",
     "nuxt": "3.10.0",
